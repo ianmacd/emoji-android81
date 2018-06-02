@@ -1,0 +1,7 @@
+id=emoji81
+name=Android 8.1 emoji font installer
+version=v1.0
+versionCode=10
+author=ianmacd
+description=Provides the emoji font from Android 8.1 as a drop-in replacement for the existing emoji font.
+minMagisk=1500
