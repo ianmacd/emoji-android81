@@ -1,4 +1,4 @@
-# **System emoji font replacement**
+# **Android 8.1 system emoji font updater**
 
 ## Description
 
